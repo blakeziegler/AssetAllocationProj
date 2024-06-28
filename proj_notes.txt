@@ -12,3 +12,17 @@ for each data range resulting in accurate graphs.
 
 Current Conclusions:
 - Possible large cap overcorrection from pre-covid small cap dominance (Mar08-Dec19)?
+
+Backlog
+- current analysis (Mar 2024-Present)
+- Pre-tech era analysis (1929-2004)
+- intrest rate vs unemployment vs fund performance
+- cultural impacts & recession overcorrection
+
+Data Publication Format:
+- Report
+-- Why?
+-- Questions
+-- Data
+-- Methods
+-- Findings
