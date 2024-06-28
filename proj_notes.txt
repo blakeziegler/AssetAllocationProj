@@ -1,0 +1,14 @@
+Guiding Questions:
+
+Challenges Faced:
+
+1. 
+Problem: Tried "zooming in" a graph using the normalized data by just changing the date. 
+Normalization was applied to the date range when the normalization was designed for the entire data set.
+
+Solution: Created a derivative dataset in sql ("history_s&p_clean_DATE_DATE") and normalized the data
+for each data range resulting in accurate graphs.
+
+
+Current Conclusions:
+- Possible large cap overcorrection from pre-covid small cap dominance (Mar08-Dec19)?
