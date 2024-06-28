@@ -10,10 +10,17 @@ Solution: Created a derivative dataset in sql ("history_s&p_clean_DATE_DATE") an
 for each data range resulting in accurate graphs.
 
 
+
+Findings:
+- 2004-2024:
+-- Large Cap best performer and least volatile
+
 Current Conclusions:
 - Possible large cap overcorrection from pre-covid small cap dominance (Mar08-Dec19)?
 
 Backlog
+- avg PE/ratio 2010 small cap vs 2024 Large Cap
+- historic average P/E ratio of funds, corelation to future performance?
 - current analysis (Mar 2024-Present)
 - Pre-tech era analysis (1929-2004)
 - intrest rate vs unemployment vs fund performance
