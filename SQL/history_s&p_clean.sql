@@ -1,4 +1,3 @@
-SELECT Database(history_s&p);
 
 SELECT * FROM `history_s&p`.vv;
 SET SQL_SAFE_UPDATES = 0;
