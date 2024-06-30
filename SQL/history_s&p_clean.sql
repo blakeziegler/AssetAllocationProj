@@ -1,3 +1,5 @@
+SELECT Database(history_s&p);
+
 SELECT * FROM `history_s&p`.vv;
 SET SQL_SAFE_UPDATES = 0;
 -- Create the vv_clean table with the required columns and rounded values

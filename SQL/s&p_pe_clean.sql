@@ -1,5 +1,5 @@
 SELECT * FROM `history_s&p`.pe_ratio;
-
+select * from `history_s&p`.pe_ratio_clean;
 -- Create the pe_ratio_clean table with the correct schema and correctly formatted date
 CREATE TABLE pe_ratio_clean AS
 SELECT 
